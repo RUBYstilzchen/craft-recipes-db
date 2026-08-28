@@ -1,76 +1,54 @@
 {
-  "version": "1.1.5",
-  "exportedAt": "2026-08-27T22:04:40.521Z",
+  "version": "1.2.0",
+  "exportedAt": "2026-08-28T06:21:42.372Z",
   "recipes": [
     {
-      "id": "1787781130346",
-      "name": "Godzilla Zone King Mask.Rank:9",
+      "id": "1787897952644",
+      "name": "Artefact detector \"Svarog\"",
       "ingredients": [
         {
-          "name": "Маска годзіла",
+          "name": "Artefact detector \"Veles\"",
           "count": 1
         },
         {
-          "name": "Артефакт око",
-          "count": 1
-        },
-        {
-          "name": "Червоні балони (200)",
-          "count": 1
-        },
-        {
-          "name": "Текстиль",
-          "count": 12
-        },
-        {
-          "name": "Сірі балони (200)",
-          "count": 2
-        },
-        {
-          "name": "Клей",
-          "count": 4
-        },
-        {
-          "name": "Червона швейка (500)",
+          "name": "Процесор",
           "count": 5
         },
         {
-          "name": "Червоний скорняк (500)",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "id": "1787788132102",
-      "name": "Wardog.Rank:1",
-      "ingredients": [
-        {
-          "name": "Чистка для зброї (100)",
+          "name": "Newbie tool kit",
           "count": 2
         },
         {
-          "name": "Metal barrel",
-          "count": 1
+          "name": "Cooper wire (катушка)",
+          "count": 12
         },
         {
-          "name": "Reinforced tape",
-          "count": 2
+          "name": "Scribble books blue",
+          "count": 8
         },
         {
-          "name": "R5 toolkit",
-          "count": 1
+          "name": "Wire",
+          "count": 6
         },
         {
-          "name": "Sheet metal",
-          "count": 2
+          "name": "Конденсатор",
+          "count": 5
         },
         {
-          "name": "Metal pipe",
+          "name": "HDD (жорсткий диск)",
+          "count": 4
+        },
+        {
+          "name": "Microprocessor board (зелена плата)",
+          "count": 5
+        },
+        {
+          "name": "Power supply (блок живлення)",
           "count": 3
         },
         {
-          "name": "Викрутка",
-          "count": 1
+          "name": "Exomotor",
+          "count": 3
         }
       ]
     },
@@ -89,6 +67,112 @@
         {
           "name": "Клей",
           "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1787897661637",
+      "name": "Gauss Cannon (Product №62)",
+      "ingredients": [
+        {
+          "name": "Book of armanent repair (книга ремонту зброї)",
+          "count": 2
+        },
+        {
+          "name": "Metal barrel",
+          "count": 5
+        },
+        {
+          "name": "Пандора",
+          "count": 1
+        },
+        {
+          "name": "Флешка",
+          "count": 8
+        },
+        {
+          "name": "Gun oil",
+          "count": 12
+        },
+        {
+          "name": "Капсула",
+          "count": 4
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 8
+        },
+        {
+          "name": "Вибухівка",
+          "count": 5
+        },
+        {
+          "name": "Паяльник",
+          "count": 5
+        },
+        {
+          "name": "Клей",
+          "count": 10
+        },
+        {
+          "name": "Sheet metal",
+          "count": 5
+        },
+        {
+          "name": "Metal pipe",
+          "count": 10
+        },
+        {
+          "name": "R5 toolkit",
+          "count": 3
+        },
+        {
+          "name": "R3 toolkit",
+          "count": 3
+        },
+        {
+          "name": "R8 toolkit",
+          "count": 3
+        },
+        {
+          "name": "Процесор",
+          "count": 10
+        },
+        {
+          "name": "HDD (жорсткий диск)",
+          "count": 5
+        },
+        {
+          "name": "Оперативна пам'ять",
+          "count": 7
+        },
+        {
+          "name": "Курок",
+          "count": 11
+        },
+        {
+          "name": "Electrical repair kit (100)",
+          "count": 6
+        },
+        {
+          "name": "Конденсатор",
+          "count": 5
+        },
+        {
+          "name": "Викрутка",
+          "count": 1
+        },
+        {
+          "name": "Box of screws (90)",
+          "count": 6
+        },
+        {
+          "name": "Box of springs (90)",
+          "count": 8
+        },
+        {
+          "name": "Box of parts (90)",
+          "count": 6
         }
       ]
     },
@@ -155,6 +239,252 @@
         {
           "name": "Exomotor",
           "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1787781130346",
+      "name": "Godzilla Zone King Mask.Rank:9",
+      "ingredients": [
+        {
+          "name": "Маска годзіла",
+          "count": 1
+        },
+        {
+          "name": "Артефакт око",
+          "count": 1
+        },
+        {
+          "name": "Червоні балони (200)",
+          "count": 1
+        },
+        {
+          "name": "Текстиль",
+          "count": 12
+        },
+        {
+          "name": "Сірі балони (200)",
+          "count": 2
+        },
+        {
+          "name": "Клей",
+          "count": 4
+        },
+        {
+          "name": "Червона швейка (500)",
+          "count": 5
+        },
+        {
+          "name": "Червоний скорняк (500)",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1787897138188",
+      "name": "Groza .408.Rank:7",
+      "ingredients": [
+        {
+          "name": "Паяльник",
+          "count": 1
+        },
+        {
+          "name": "Metal barrel",
+          "count": 4
+        },
+        {
+          "name": "Cursed weapon cleaning kit (червона чистка для зброї) (500)",
+          "count": 2
+        },
+        {
+          "name": "Metal pipe",
+          "count": 4
+        },
+        {
+          "name": "Box of screws (90)",
+          "count": 4
+        },
+        {
+          "name": "Box of parts (90)",
+          "count": 4
+        },
+        {
+          "name": "R3 toolkit",
+          "count": 3
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 2
+        },
+        {
+          "name": "R3 toolkit",
+          "count": 4
+        },
+        {
+          "name": "Sheet metal",
+          "count": 3
+        },
+        {
+          "name": "Box of springs (90)",
+          "count": 4
+        },
+        {
+          "name": "Gun oil",
+          "count": 3
+        },
+        {
+          "name": "Cooper wire (катушка)",
+          "count": 4
+        },
+        {
+          "name": "Курок",
+          "count": 2
+        },
+        {
+          "name": "Болт",
+          "count": 10
+        },
+        {
+          "name": "Клей",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1787896673997",
+      "name": "Stormbringer 20x76",
+      "ingredients": [
+        {
+          "name": "Дуплет",
+          "count": 1
+        },
+        {
+          "name": "Metal barrel",
+          "count": 2
+        },
+        {
+          "name": "Чистка для зброї (100)",
+          "count": 6
+        },
+        {
+          "name": "Metal pipe",
+          "count": 3
+        },
+        {
+          "name": "Box of parts (90)",
+          "count": 4
+        },
+        {
+          "name": "R3 toolkit",
+          "count": 3
+        },
+        {
+          "name": "R8 toolkit",
+          "count": 2
+        },
+        {
+          "name": "Вибухівка",
+          "count": 2
+        },
+        {
+          "name": "Gun oil",
+          "count": 3
+        },
+        {
+          "name": "Cooper wire (катушка)",
+          "count": 4
+        },
+        {
+          "name": "Курок",
+          "count": 1
+        },
+        {
+          "name": "Клей",
+          "count": 5
+        },
+        {
+          "name": "Болт",
+          "count": 6
+        },
+        {
+          "name": "Wires",
+          "count": 3
+        },
+        {
+          "name": "Викрутка",
+          "count": 1
+        },
+        {
+          "name": "Ножовка",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1787896418165",
+      "name": "Vepr-12 CAMO",
+      "ingredients": [
+        {
+          "name": "Metal barrel",
+          "count": 1
+        },
+        {
+          "name": "Metal pipe",
+          "count": 3
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 2
+        },
+        {
+          "name": "Cooper wire (катушка)",
+          "count": 3
+        },
+        {
+          "name": "Болт",
+          "count": 10
+        },
+        {
+          "name": "Book of armanent repair (книга ремонту зброї)",
+          "count": 2
+        },
+        {
+          "name": "Паяльник",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1787788132102",
+      "name": "Wardog.Rank:1",
+      "ingredients": [
+        {
+          "name": "Чистка для зброї (100)",
+          "count": 2
+        },
+        {
+          "name": "Metal barrel",
+          "count": 1
+        },
+        {
+          "name": "Reinforced tape",
+          "count": 2
+        },
+        {
+          "name": "R5 toolkit",
+          "count": 1
+        },
+        {
+          "name": "Sheet metal",
+          "count": 2
+        },
+        {
+          "name": "Metal pipe",
+          "count": 3
+        },
+        {
+          "name": "Викрутка",
+          "count": 1
         }
       ]
     }
