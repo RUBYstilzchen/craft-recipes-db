@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "exportedAt": "2026-08-28T06:21:42.372Z",
+  "version": "1.2.4",
+  "exportedAt": "2026-08-30T15:07:08.899Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -347,6 +347,52 @@
         {
           "name": "Клей",
           "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1788102426770",
+      "name": "Jagger Vest.Rank:5",
+      "ingredients": [
+        {
+          "name": "Armored suit.Rank:5",
+          "count": 1
+        },
+        {
+          "name": "Reinforced tape",
+          "count": 8
+        },
+        {
+          "name": "Клей",
+          "count": 5
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 1
+        },
+        {
+          "name": "Metal pipe",
+          "count": 5
+        },
+        {
+          "name": "Box of springs (90)",
+          "count": 3
+        },
+        {
+          "name": "Паяльник",
+          "count": 3
+        },
+        {
+          "name": "Sheet metal",
+          "count": 5
+        },
+        {
+          "name": "Metal angle (кутик)",
+          "count": 4
+        },
+        {
+          "name": "R5 toolkit",
+          "count": 3
         }
       ]
     },
