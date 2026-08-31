@@ -1,6 +1,6 @@
 {
   "version": "1.2.4",
-  "exportedAt": "2026-08-31T15:03:25.892Z",
+  "exportedAt": "2026-08-31T21:35:32.426Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -49,6 +49,24 @@
         {
           "name": "Exomotor",
           "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1788190822230",
+      "name": "Condensators box",
+      "ingredients": [
+        {
+          "name": "Capasotirs",
+          "count": 3
+        },
+        {
+          "name": "Викрутка",
+          "count": 1
+        },
+        {
+          "name": "Плоскогубці",
+          "count": 1
         }
       ]
     },
@@ -495,6 +513,44 @@
         {
           "name": "R5 toolkit",
           "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1788190602151",
+      "name": "Pandora Activation",
+      "ingredients": [
+        {
+          "name": "Pandora",
+          "count": 1
+        },
+        {
+          "name": "Advanced Artifact Analyzer (Комп/Баян)",
+          "count": 1
+        },
+        {
+          "name": "Analyzer",
+          "count": 1
+        },
+        {
+          "name": "Power supply",
+          "count": 8
+        },
+        {
+          "name": "Scribble notebook green",
+          "count": 4
+        },
+        {
+          "name": "Вибухівка",
+          "count": 5
+        },
+        {
+          "name": "Артефакт батарейка",
+          "count": 10
+        },
+        {
+          "name": "Артефакт граві",
+          "count": 5
         }
       ]
     },
