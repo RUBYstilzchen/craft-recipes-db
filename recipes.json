@@ -1,6 +1,6 @@
 {
   "version": "1.2.4",
-  "exportedAt": "2026-08-30T15:07:08.899Z",
+  "exportedAt": "2026-08-31T15:03:25.892Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -53,6 +53,24 @@
       ]
     },
     {
+      "id": "1788188574429",
+      "name": "Cursed Gun Cleaning Kit (Червона чистка) (500)",
+      "ingredients": [
+        {
+          "name": "Звичайна чистка (100)",
+          "count": 8
+        },
+        {
+          "name": "Gun oil",
+          "count": 1
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 1
+        }
+      ]
+    },
+    {
       "id": "1787851930363",
       "name": "Cursed Leather Sewing Kit (Червоний скорняк)",
       "ingredients": [
@@ -66,6 +84,90 @@
         },
         {
           "name": "Клей",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1788188525763",
+      "name": "Cursed Sewing Kit (Червона швейка) (500)",
+      "ingredients": [
+        {
+          "name": "Звичайна швейка (100)",
+          "count": 8
+        },
+        {
+          "name": "Текстиль",
+          "count": 2
+        },
+        {
+          "name": "Клей",
+          "count": 1
+        },
+        {
+          "name": "Reinforced tape",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1788188359495",
+      "name": "Exo Backpack T3(800)R7",
+      "ingredients": [
+        {
+          "name": "Exoskeleton backpack T2",
+          "count": 1
+        },
+        {
+          "name": "Wendigo horns (monolith)",
+          "count": 5
+        },
+        {
+          "name": "Каніфоль",
+          "count": 5
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 3
+        },
+        {
+          "name": "Scribble notebook red",
+          "count": 10
+        },
+        {
+          "name": "Reinforced tape",
+          "count": 10
+        },
+        {
+          "name": "Condensators box",
+          "count": 5
+        },
+        {
+          "name": "R5 toolkit",
+          "count": 3
+        },
+        {
+          "name": "R3 toolkit",
+          "count": 3
+        },
+        {
+          "name": "Exomotor",
+          "count": 5
+        },
+        {
+          "name": "Exoskeleton diagram",
+          "count": 1
+        },
+        {
+          "name": "Червона швейка (500)",
+          "count": 5
+        },
+        {
+          "name": "Червоний скорняк (500)",
+          "count": 5
+        },
+        {
+          "name": "Пандора",
           "count": 1
         }
       ]
