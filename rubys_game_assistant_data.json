@@ -1,6 +1,6 @@
 {
   "version": "1.2.7",
-  "exportedAt": "2026-09-02T20:21:51.620Z",
+  "exportedAt": "2026-09-02T20:25:42.735Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -705,5 +705,14 @@
       ]
     }
   ],
-  "quests": []
+  "quests": [
+    {
+      "number": "1",
+      "title": "тест",
+      "description": "тест",
+      "coords": "1235 4445",
+      "reward": "тест",
+      "completed": false
+    }
+  ]
 }
