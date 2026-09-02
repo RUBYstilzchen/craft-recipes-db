@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "exportedAt": "2026-09-02T20:37:54.096Z",
+  "version": "1.3.3",
+  "exportedAt": "2026-09-02T22:37:47.459Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -705,5 +705,742 @@
       ]
     }
   ],
-  "quests": []
+  "quests": [
+    {
+      "number": "21",
+      "title": "Вбити 20 крокодилів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "22",
+      "title": "Принести 5 бутилок водки",
+      "description": "продається у Сідора",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "23",
+      "title": "Принести 5 мізків контролера",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "24",
+      "title": "Принести артефакти",
+      "description": "\"Батарейка\", \"Кристал\",  \"Кам'яна квітка\"",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "25",
+      "title": "Вбити 20 болотних кровососів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "26",
+      "title": "Дослідити 3 точки по координатах на Болотах",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "27",
+      "title": "Вбити 25 червоних зомбі",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "28",
+      "title": "Дослідити точку по координатам",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "29",
+      "title": "Вбити вогняного полтергейста",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "30",
+      "title": "Принести матеріали",
+      "description": "текстиль, скотч, провода",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "31",
+      "title": "Вбити 10 контролерів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "32",
+      "title": "Принести 4 копита, 4 рогів тарка",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "33",
+      "title": "Достідити точку по координатах",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "34",
+      "title": "Вбити 20 снорків",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "35",
+      "title": "Принести Срібний Desert Eagle",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "36",
+      "title": "Вбити 3 ротлінга",
+      "description": "нічний спавн, згорівше село болота",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "37",
+      "title": "Вбити",
+      "description": "5 тарків, 10 контролерів, 20 кровососів, 2 хімери",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "38",
+      "title": "Доставити посилку на Агропром",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "39",
+      "title": "Принести",
+      "description": "2 кебаба, 5 зелених пива",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "40",
+      "title": "Вбити 7 бюррерів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "41",
+      "title": "Вбити 40 ізломів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "42",
+      "title": "Вбити босса Biolab",
+      "description": "вхід біля тунеля до Тузли",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "43",
+      "title": "Відвідати Агро інститут",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "44",
+      "title": "Принести 5 бутилок водки",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "45",
+      "title": "Вбити 10 вербірів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "46",
+      "title": "Принести 20 сердець котиків-баюмів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "47",
+      "title": "Дослітити точку по координатах",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "48",
+      "title": "Вбити 40 снорків",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "49",
+      "title": "Вбити 1 лічена",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "50",
+      "title": "Вбити 2 великих вовків (BlightFang)",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "51",
+      "title": "Принести 3 серця хімери",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "52",
+      "title": "Вбити босса Agro Lab",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "53",
+      "title": "Доставити пакунок на фрідом",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "54",
+      "title": "Розвідати ферму і вбити контролера",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "55",
+      "title": "Розвідати 3 точки",
+      "description": "палатка на озері перед фермою. заправка, церква",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "56",
+      "title": "Сходити в інститут",
+      "description": "вбити нексуса, розвідати вхід до ремонтної діжки",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "57",
+      "title": "Ще раз піти в інститут",
+      "description": "зайти у кімнату з рем діжкою",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "58",
+      "title": "Вбити",
+      "description": "фаер полтера  (під лепами навпроти ферми) 5 вовкулак, 1 вендіго",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "59",
+      "title": "Вбити",
+      "description": "кабана у селі біля цвинтаря (за АТП - село Camp om the road)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "60",
+      "title": "Вбити 30 полтерів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "61",
+      "title": "Вбити 10 білих вервульфів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "62",
+      "title": "Розвідка точок",
+      "description": "вбити монстра (архі аномалія біля заправки,вбити полтера - лощина)",
+      "coords": "",
+      "reward": "книжка на базу",
+      "completed": false
+    },
+    {
+      "number": "63",
+      "title": "Вбити по 30 псевдо собак та зомбі вовків",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "64",
+      "title": "Вбити",
+      "description": "(Квест на ножа) -БОНУСНИЙ КВЕСТ---- 40 хімер--- 30 чорних ведмедів--- 20 чорних вервольфів--- 12 тарків--- 200 ізломів",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "65",
+      "title": "Принести 15 оченй нічного спавну (фрідом)",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "66",
+      "title": "Розвідка місцевості Вхід в лабу.",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "67",
+      "title": "Пройти фрідом лабу, вбити босса",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "68",
+      "title": "Дорога на бар",
+      "description": "(принести пак горілки, видається)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "69",
+      "title": "Вбити 20 хімер",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "70",
+      "title": "Принести",
+      "description": "1 відро, 5 карпів, 5 бутилок пива(Реднек), 5 шавух",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "71",
+      "title": "Вбити зомбі ведмедя",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "72",
+      "title": "Вбити 1000 мутантів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "73",
+      "title": "На дикій території (дослідити точку)",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "74",
+      "title": "Вбити гіганта на кладовищі",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "75",
+      "title": "Чонкі дослідити ( 4 точки)",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "76",
+      "title": "30 очей полтерів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "77",
+      "title": "Вбити",
+      "description": "20 блекбірів та 20 вовків(великих)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "78",
+      "title": "Принести",
+      "description": "8 батарейок(арти) та 2 плаєрси",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "79",
+      "title": "Відкрити пірат кей 2",
+      "description": "відкривати не обов'язково, можна просто потусити біля крейта",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "80",
+      "title": "Дослідити хижі в лісі",
+      "description": "де живуть 3 козла (дорогою на янтарь)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "81",
+      "title": "Дослідити",
+      "description": "впавший літак біля бару, на півночі.(3 вервульфа-псевдич-дві химери)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "82",
+      "title": "Конвой як йти з фрідома на звалищі техніки.",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "83",
+      "title": "Бос Блекнеста.",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "84",
+      "title": "Посилка на Янтар",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "85",
+      "title": "Розвідати чотири точки",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "86",
+      "title": "10  мізків псевдича",
+      "description": "(падають  з малих пчевдичів)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "87",
+      "title": "Вбити 40 крокодилів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "88",
+      "title": "Вбити",
+      "description": "40 хімер, принести 10 кігтів та 5 голів химери",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "89",
+      "title": "10 батарейок (арт)",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "90",
+      "title": "10 голів рептилій",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "91",
+      "title": "Принести",
+      "description": "10 горілки, 10 карпів, 10 кебабів, 20 стейків корови, 20 пива (чернобл.зелене)",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "92",
+      "title": "Розвідка, 4 точки на Unit №17",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "93",
+      "title": "10 драконів",
+      "description": "",
+      "coords": "",
+      "reward": "пістолет Velic",
+      "completed": false
+    },
+    {
+      "number": "94",
+      "title": "Нічні спавни",
+      "description": "",
+      "coords": "",
+      "reward": "Пандора",
+      "completed": false
+    },
+    {
+      "number": "95",
+      "title": "Розвідати гелікоптер на околицях \"Мертвого Міста\"",
+      "description": "",
+      "coords": "",
+      "reward": "Комп/Баян",
+      "completed": false
+    },
+    {
+      "number": "96",
+      "title": "Вбити 10 кінг контролерів",
+      "description": "",
+      "coords": "",
+      "reward": "Псі-шолом",
+      "completed": false
+    },
+    {
+      "number": "97",
+      "title": "Розвідати вхід до Янтар лаби",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "98",
+      "title": "Пройти Янтар лабу",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "99",
+      "title": "Якщо Вам не буде складно, не могли б Ви звалити з Янтаря?",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "100",
+      "title": "Розвідати вхід в Maze lab",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "101",
+      "title": "Пройти Maze lab",
+      "description": "дійти до крейта",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "102",
+      "title": "Розвідать 3 точки біля Аеродрому",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "103",
+      "title": "Сходити на янтар",
+      "description": "віднести пакет сміття",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "104",
+      "title": "Понюхати Death Lab",
+      "description": "воняє чуваком на 150к хп",
+      "coords": "",
+      "reward": "Генератор",
+      "completed": false
+    },
+    {
+      "number": "105",
+      "title": "Знову звалити з Янтаря на Ліманськ",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "106",
+      "title": "Пройти Red Forest Mine (RF)",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "107",
+      "title": "Вбити на просторах Зони 5000 мутантів та тварин",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "108",
+      "title": "Вбити 300 нічних монстрів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "109",
+      "title": "Пройти Shadow Lab",
+      "description": "",
+      "coords": "",
+      "reward": "гаус-Deagle",
+      "completed": false
+    },
+    {
+      "number": "110",
+      "title": "Віднести дослідницький прилад брату Сідора на Блек Маркет",
+      "description": "",
+      "coords": "",
+      "reward": "100 гаус патронів",
+      "completed": false
+    },
+    {
+      "number": "111",
+      "title": "Дослідити RF mine",
+      "description": "(направо по тоннелю)",
+      "coords": "",
+      "reward": "Пандора",
+      "completed": false
+    },
+    {
+      "number": "112",
+      "title": "Вбити",
+      "description": "5х стопісятніков, 10х ріперов, 50х рептилій, 200 хімер",
+      "coords": "",
+      "reward": "ніж Прип'ять",
+      "completed": false
+    }
+  ]
 }
