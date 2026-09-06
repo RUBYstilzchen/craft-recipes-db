@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "exportedAt": "2026-09-02T22:37:47.459Z",
+  "version": "1.3.8",
+  "exportedAt": "2026-09-06T13:24:16.875Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -186,6 +186,68 @@
         },
         {
           "name": "Пандора",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1788699885081",
+      "name": "Exsoskeleton Backpack T1",
+      "ingredients": [
+        {
+          "name": "Nanosut Powerframe",
+          "count": 1
+        },
+        {
+          "name": "Шкіра медведя - червона",
+          "count": 5
+        },
+        {
+          "name": "Каніфоль",
+          "count": 5
+        },
+        {
+          "name": "Newbie tool kit",
+          "count": 3
+        },
+        {
+          "name": "Рюкзак з бару за лям (чорний)",
+          "count": 1
+        },
+        {
+          "name": "Scribble books blue",
+          "count": 10
+        },
+        {
+          "name": "Condensators box",
+          "count": 5
+        },
+        {
+          "name": "Reinforced tape",
+          "count": 3
+        },
+        {
+          "name": "R5 toolkit",
+          "count": 3
+        },
+        {
+          "name": "R7 toolkit",
+          "count": 3
+        },
+        {
+          "name": "Exomotor",
+          "count": 5
+        },
+        {
+          "name": "Червона швейка (500)",
+          "count": 8
+        },
+        {
+          "name": "Червоний скорняк (500)",
+          "count": 5
+        },
+        {
+          "name": "Exoskeleton diagram",
           "count": 1
         }
       ]
