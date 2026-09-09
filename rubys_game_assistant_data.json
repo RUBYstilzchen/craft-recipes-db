@@ -1,6 +1,6 @@
 {
-  "version": "1.3.8",
-  "exportedAt": "2026-09-06T13:24:16.875Z",
+  "version": "1.4.0",
+  "exportedAt": "2026-09-09T20:56:20.207Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -49,24 +49,6 @@
         {
           "name": "Exomotor",
           "count": 3
-        }
-      ]
-    },
-    {
-      "id": "1788190822230",
-      "name": "Condensators box",
-      "ingredients": [
-        {
-          "name": "Capasotirs",
-          "count": 3
-        },
-        {
-          "name": "Викрутка",
-          "count": 1
-        },
-        {
-          "name": "Плоскогубці",
-          "count": 1
         }
       ]
     },
@@ -765,17 +747,27 @@
           "count": 1
         }
       ]
+    },
+    {
+      "id": "1788190822230",
+      "name": "Condensators box",
+      "ingredients": [
+        {
+          "name": "Capasotirs",
+          "count": 3
+        },
+        {
+          "name": "Викрутка",
+          "count": 1
+        },
+        {
+          "name": "Плоскогубці",
+          "count": 1
+        }
+      ]
     }
   ],
   "quests": [
-    {
-      "number": "21",
-      "title": "Вбити 20 крокодилів",
-      "description": "",
-      "coords": "",
-      "reward": "",
-      "completed": false
-    },
     {
       "number": "22",
       "title": "Принести 5 бутилок водки",
@@ -1502,6 +1494,38 @@
       "description": "5х стопісятніков, 10х ріперов, 50х рептилій, 200 хімер",
       "coords": "",
       "reward": "ніж Прип'ять",
+      "completed": false
+    },
+    {
+      "number": "21",
+      "title": "Вбити 20 крокодилів",
+      "description": "",
+      "coords": "",
+      "reward": "",
+      "completed": false
+    },
+    {
+      "number": "113",
+      "title": "Dead Air on the Radar",
+      "description": "Вилізти на кожну з 5-ти вишок випалювача мізків (радар)",
+      "coords": "",
+      "reward": "Генератор, Fallout перчатки",
+      "completed": false
+    },
+    {
+      "number": "114",
+      "title": "Broken Wings, Faint Signals",
+      "description": "Знайти два гелікоптера, один на острові під dead city(2283  7183), другий правіше бару де спавниться 4 сітхера (4837 6736)",
+      "coords": "",
+      "reward": "Пандора, Fallout боти",
+      "completed": false
+    },
+    {
+      "number": "115",
+      "title": "The Cobbler Who Cut the Beasts",
+      "description": "Вибити 30 драконів, по 10 кожного виду",
+      "coords": "",
+      "reward": "Fallout куртка",
       "completed": false
     }
   ]
