@@ -1,6 +1,6 @@
 {
   "version": "1.4.0",
-  "exportedAt": "2026-09-09T20:56:20.207Z",
+  "exportedAt": "2026-09-15T14:03:12.161Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -49,6 +49,24 @@
         {
           "name": "Exomotor",
           "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1788190822230",
+      "name": "Condensators box",
+      "ingredients": [
+        {
+          "name": "Capasotirs",
+          "count": 3
+        },
+        {
+          "name": "Викрутка",
+          "count": 1
+        },
+        {
+          "name": "Плоскогубці",
+          "count": 1
         }
       ]
     },
@@ -744,24 +762,6 @@
         },
         {
           "name": "Викрутка",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "id": "1788190822230",
-      "name": "Condensators box",
-      "ingredients": [
-        {
-          "name": "Capasotirs",
-          "count": 3
-        },
-        {
-          "name": "Викрутка",
-          "count": 1
-        },
-        {
-          "name": "Плоскогубці",
           "count": 1
         }
       ]
@@ -1526,6 +1526,54 @@
       "description": "Вибити 30 драконів, по 10 кожного виду",
       "coords": "",
       "reward": "Fallout куртка",
+      "completed": false
+    },
+    {
+      "number": "116",
+      "title": "Artifacts for an Old Man",
+      "description": "Принести: контейнер бастіон, артефакт компас, фонтан, медальйон, фантом, медуза, серце оазісу, око, граві, золота рибка",
+      "coords": "",
+      "reward": "Детектор Сварог, артефакт місячне сяйво",
+      "completed": false
+    },
+    {
+      "number": "117",
+      "title": "Scourge of the Stalkers",
+      "description": "Вбити 500 хімер",
+      "coords": "",
+      "reward": "Пояс Fallout",
+      "completed": false
+    },
+    {
+      "number": "118",
+      "title": "What Remains of Fang",
+      "description": "Пройти Death лабу і піднятись по драбині на верх, там понюхати мертвого тіпа з біблією",
+      "coords": "",
+      "reward": "Штани Fallout",
+      "completed": false
+    },
+    {
+      "number": "119",
+      "title": "A Taste of the Old Days",
+      "description": "Принести 12 бутилок горілки, купляється у Сідора",
+      "coords": "",
+      "reward": "Шолом Fallout",
+      "completed": false
+    },
+    {
+      "number": "120",
+      "title": "When Bears Stop Dying",
+      "description": "Вбити 50 зомбібірів (skurwysyn)",
+      "coords": "",
+      "reward": "2 магазини для гаус-пістоля",
+      "completed": false
+    },
+    {
+      "number": "121",
+      "title": "Northen Extermmination Protocol",
+      "description": "Вбити 1.000 мутантів",
+      "coords": "",
+      "reward": "Рюкзак Fallout",
       "completed": false
     }
   ]
