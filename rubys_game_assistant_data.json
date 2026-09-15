@@ -1,6 +1,6 @@
 {
   "version": "1.4.0",
-  "exportedAt": "2026-09-15T14:03:12.161Z",
+  "exportedAt": "2026-09-15T14:35:58.133Z",
   "recipes": [
     {
       "id": "1787897952644",
@@ -1571,7 +1571,7 @@
     {
       "number": "121",
       "title": "Northen Extermmination Protocol",
-      "description": "Вбити 1.000 мутантів",
+      "description": "Вбити 1.000 північних мутанітв, слабку монстру НЕ РАХУЄ",
       "coords": "",
       "reward": "Рюкзак Fallout",
       "completed": false
